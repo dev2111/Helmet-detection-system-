@@ -1,2 +1,1 @@
-# Helmet-detection-system-
-Project on helmet detection System
+# Helmet-Detection-System
